@@ -32,7 +32,7 @@ We need to install php on our linux or os.Open a terminal type and type the foll
 ### Terminal Command ###
 
 <ul>
-<li>git clone https://github.com/r3k4t/iptracker.git</li>
+<li>git clone https://github.com/r3k4t/iptracker5.git</li>
 <li>cd   iptracker5   </li>
 <li>php iptracker5.php </li>
 </ul>
