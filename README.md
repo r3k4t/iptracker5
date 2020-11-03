@@ -1,6 +1,5 @@
-[![GPL-3.0](https://img.shields.io/packagist/l/doctrine/orm.svg)](https://github.com/r3k4t/iptracker5/blob/main/LICENSE) 
-[![PHP](https://img.shields.io/badge/PHP-brightgreen.svg)](https://en.wikipedia.org/wiki/PHP/)
-[![OS](https://img.shields.io/badge/Tested%20On-Linux%20%7C%20OS-yellowgreen.svg)](https://en.wikipedia.org/wiki/Linux/)
+ [![PHP](https://img.shields.io/badge/PHP-blue.svg)](https://en.wikipedia.org/wiki/PHP/)
+[![OS](https://img.shields.io/badge/Tested%20On-Linux%20%7C%20OS-orangeblack.svg)](https://en.wikipedia.org/wiki/Linux/)
 
 <h2>IP Tracker5</h2>
 
