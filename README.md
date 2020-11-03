@@ -27,7 +27,7 @@ This program can track any ip address.This programe name is iptracker5.A iptrack
 We need to install php on our linux or os.Open a terminal type and type the following command:
 
 <ul>
-<li>sudo apt install php<li>
+<li>sudo apt install php</li>
 </ul>
 
 ### Terminal Command ###
