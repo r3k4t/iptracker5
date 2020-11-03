@@ -29,15 +29,6 @@ We need to install php on our linux or os.Open a terminal type and type the foll
 <li>sudo apt install php</li>
 </ul>
 
-### Terminal Command ###
-
-<ul>
-<li>git clone https://github.com/r3k4t/iptracker5.git</li>
-<li>cd   iptracker5   </li>
-<li>php iptracker5.php </li>
-</ul>
-
-
 ### Edit & Change ###
 
 Open a ip.txt file into nano text editor and enter your ip adress and save  it.(PRESS CTRL + X + Y)
@@ -48,13 +39,20 @@ Open a ip.txt file into nano text editor and enter your ip adress and save  it.(
 
 ![Screenshot at 2020-11-03 17-15-43](https://user-images.githubusercontent.com/69615463/97981450-54fe9f00-1df8-11eb-86d5-7061f2eb4a30.png)
 
+### Terminal Command ###
+
+<ul>
+<li>git clone https://github.com/r3k4t/iptracker5.git</li>
+<li>cd   iptracker5   </li>
+<li>php iptracker5.php </li>
+</ul>
+
 ### Example ###
 
 ![Screenshot at 2020-10-23 09-58-00](https://user-images.githubusercontent.com/69615463/97977350-182fa980-1df2-11eb-95e1-5cb86b3c9209.png)
 
 
 ![Screenshot at 2020-11-03 16-04-15](https://user-images.githubusercontent.com/69615463/97978410-89bc2780-1df3-11eb-80de-f19f8d37b352.png)
-
 
 location : 32.7831,-96.8067
 
